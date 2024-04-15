@@ -69,7 +69,6 @@
 ![Capstone1](https://github.com/HeebaEddouh/Capstone/assets/124473455/4f60006f-b79b-42ee-b541-6e7509868feb)
 
 
-
 ### [BONUS] Digital Wireframes & Mockups
 ### [BONUS] Interactive Prototype
 ## Schema
