@@ -66,7 +66,7 @@
 
 # Wireframes
 
-![Capstone1](https://github.com/HeebaEddouh/Capstone/assets/124473455/4f60006f-b79b-42ee-b541-6e7509868feb)
+![Capstone1](https://github.com/HeebaEddouh/Capstone/assets/124473455/5f18666d-662b-460c-be47-9ac5e988da75)
 
 
 ### [BONUS] Digital Wireframes & Mockups
