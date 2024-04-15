@@ -1,4 +1,4 @@
-# World Recipes
+![Capstone](https://github.com/HeebaEddouh/Capstone/assets/124473455/8f234d6e-7049-4e86-ac20-890e4c586c5d)# World Recipes
 ## Table of Contents
  1. Overview
  2. Product Spec
@@ -65,7 +65,9 @@
 
 
 # Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+
+![Capstone](https://github.com/HeebaEddouh/Capstone/assets/124473455/a65febb1-bcc3-47a7-9593-3953ebc11600)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 ### [BONUS] Interactive Prototype
