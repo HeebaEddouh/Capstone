@@ -1,4 +1,4 @@
-![Capstone](https://github.com/HeebaEddouh/Capstone/assets/124473455/8f234d6e-7049-4e86-ac20-890e4c586c5d)# World Recipes
+# World Recipes
 ## Table of Contents
  1. Overview
  2. Product Spec
