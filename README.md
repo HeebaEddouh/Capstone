@@ -12,14 +12,13 @@
 - User can favorite recipes and keep it in a saved list.
 
 ## App Evaluation
-[Evaluation of your app across the following attributes]
 
- - Category:
- - Mobile:
- - Story:
- - Market:
- - Habit:
- - Scope:
+ - Category: Travel/Food
+ - Mobile: Users tend to take out their phone for recipes since it's more efficient that accessing it through a website.
+ - Story: People tend to bond over food and cultures. The story behind this app is that people are able to share traditional recipes that have been passed down through generations.
+ - Market: This app is made for those all around the world. It can range from people who just got into cooking or have been in the industry for a long time.
+ - Habit: Since this app is quick and easy to use, users are able to access it before and while preparing or cooking. They're able to create from recipes or even their own and have the choice to publish it. 
+ - Scope: The technically challenging part of this app will most likely be creating the ability to share or private recipes.
 
 # Product Spec
 ## 1. User Stories (Required and Optional)
