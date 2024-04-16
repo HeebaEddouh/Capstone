@@ -63,6 +63,10 @@
  - Creation Screen
  => Home, user can decide whether they want to upload recipe publicly or keep it saved. 
 
+# Checkpoint
+[x] Create layout of one wireframe screen
+
+
 
 # Video
 
