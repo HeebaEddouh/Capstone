@@ -63,6 +63,9 @@
  => Home, user can decide whether they want to upload recipe publicly or keep it saved. 
 
 
+# Video
+
+https://imgur.com/a/H1iEQGw
 
 # Wireframes
 
