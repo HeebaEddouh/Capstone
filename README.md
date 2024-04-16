@@ -67,6 +67,9 @@
 [x] Create layout of one wireframe screen
 
 
+# Progress Reflection
+
+I've create my main layout for World Recipes and started to create the screen layouts. By the next sprint I want to complete all screen layouts with the flow navigations. 
 
 # Video
 
