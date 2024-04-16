@@ -63,7 +63,7 @@
  - Creation Screen
  => Home, user can decide whether they want to upload recipe publicly or keep it saved. 
 
-# Checkpoint
+# Feature Checkpoint
 [x] Create layout of one wireframe screen
 
 
