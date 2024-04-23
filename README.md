@@ -40,7 +40,7 @@
  - Registration Screen
      - User can create own account.
  - Map Screen
-     - User can view map with different recipes.
+     - User can view map with different recipes. 
  - Creation screen
      - User can private own recipes.
      - User can add own recipes to any part of the map.
