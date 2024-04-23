@@ -63,16 +63,24 @@
  - Creation Screen
  => Home, user can decide whether they want to upload recipe publicly or keep it saved. 
 
-# Feature Checkpoint
+# Updated Feature Checkpoint
 [x] Create layout of one wireframe screen
+[x] Create layout for all wireframes
+[x] Frames have the general layout
 
 
-# Progress Reflection
+# Updated Progress Reflection
+I almost finished my whole layout for World recipes. Next I need to connect everything with the logic in order to start working.
 
+Previous:
 I've create my main layout for World Recipes and started to create the screen layouts. By the next sprint I want to complete all screen layouts with the flow navigations. 
 
 # Video
 
+Updated Video:
+https://imgur.com/a/Fcp2Pb2
+
+Previous Video:
 https://imgur.com/a/H1iEQGw
 
 # Wireframes
