@@ -67,17 +67,24 @@
 [x] Create layout of one wireframe screen
 [x] Create layout for all wireframes
 [x] Frames have the general layout
-
+[x] Have all complete frames for the layout.
 
 # Updated Progress Reflection
+Updated:
+I have finished the whole layout for World Recipes. Although this is the final project, I'm going to continue to finish this. The last thing to do is connect the frames with logic.
+
+
+Previous:
 I almost finished my whole layout for World recipes. Next I need to connect everything with the logic in order to start working.
 
 Previous:
 I've create my main layout for World Recipes and started to create the screen layouts. By the next sprint I want to complete all screen layouts with the flow navigations. 
 
 # Video
-
 Updated Video:
+https://imgur.com/a/WCUS9fi
+
+Previous Video:
 https://imgur.com/a/Fcp2Pb2
 
 Previous Video:
